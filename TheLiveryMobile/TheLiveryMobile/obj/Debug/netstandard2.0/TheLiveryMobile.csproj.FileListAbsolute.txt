@@ -1,0 +1,61 @@
+C:\Users\claus\source\repos\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\bin\Debug\netstandard2.0\TheLiveryMobile.deps.json
+C:\Users\claus\source\repos\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\bin\Debug\netstandard2.0\TheLiveryMobile.dll
+C:\Users\claus\source\repos\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\bin\Debug\netstandard2.0\ref\TheLiveryMobile.dll
+C:\Users\claus\source\repos\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\bin\Debug\netstandard2.0\TheLiveryMobile.pdb
+C:\Users\claus\source\repos\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\TheLiveryMobile.csproj.AssemblyReference.cache
+C:\Users\claus\source\repos\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\TheLiveryMobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claus\source\repos\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\claus\source\repos\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\claus\source\repos\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\TheLiveryMobile.AssemblyInfoInputs.cache
+C:\Users\claus\source\repos\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\TheLiveryMobile.AssemblyInfo.cs
+C:\Users\claus\source\repos\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\TheLiveryMobile.csproj.CoreCompileInputs.cache
+C:\Users\claus\source\repos\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\claus\source\repos\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\TheLiveryMobile.dll
+C:\Users\claus\source\repos\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\ref\TheLiveryMobile.dll
+C:\Users\claus\source\repos\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\TheLiveryMobile.pdb
+C:\Users\claus\source\repos\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\detalii.xaml.g.cs
+C:\Users\popan\Desktop\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\bin\Debug\netstandard2.0\TheLiveryMobile.deps.json
+C:\Users\popan\Desktop\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\bin\Debug\netstandard2.0\TheLiveryMobile.dll
+C:\Users\popan\Desktop\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\bin\Debug\netstandard2.0\ref\TheLiveryMobile.dll
+C:\Users\popan\Desktop\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\bin\Debug\netstandard2.0\TheLiveryMobile.pdb
+C:\Users\popan\Desktop\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\TheLiveryMobile.csprojAssemblyReference.cache
+C:\Users\popan\Desktop\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\popan\Desktop\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\detalii.xaml.g.cs
+C:\Users\popan\Desktop\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\popan\Desktop\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\TheLiveryMobile.AssemblyInfoInputs.cache
+C:\Users\popan\Desktop\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\TheLiveryMobile.AssemblyInfo.cs
+C:\Users\popan\Desktop\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\TheLiveryMobile.csproj.CoreCompileInputs.cache
+C:\Users\popan\Desktop\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\popan\Desktop\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\TheLiveryMobile.dll
+C:\Users\popan\Desktop\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\ref\TheLiveryMobile.dll
+C:\Users\popan\Desktop\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\TheLiveryMobile.pdb
+C:\Users\popan\Desktop\haidaaa\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\bin\Debug\netstandard2.0\TheLiveryMobile.deps.json
+C:\Users\popan\Desktop\haidaaa\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\bin\Debug\netstandard2.0\TheLiveryMobile.dll
+C:\Users\popan\Desktop\haidaaa\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\bin\Debug\netstandard2.0\ref\TheLiveryMobile.dll
+C:\Users\popan\Desktop\haidaaa\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\bin\Debug\netstandard2.0\TheLiveryMobile.pdb
+C:\Users\popan\Desktop\haidaaa\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\TheLiveryMobile.csprojAssemblyReference.cache
+C:\Users\popan\Desktop\haidaaa\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\popan\Desktop\haidaaa\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\detalii.xaml.g.cs
+C:\Users\popan\Desktop\haidaaa\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\popan\Desktop\haidaaa\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\TheLiveryMobile.AssemblyInfoInputs.cache
+C:\Users\popan\Desktop\haidaaa\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\TheLiveryMobile.AssemblyInfo.cs
+C:\Users\popan\Desktop\haidaaa\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\TheLiveryMobile.csproj.CoreCompileInputs.cache
+C:\Users\popan\Desktop\haidaaa\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\popan\Desktop\haidaaa\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\TheLiveryMobile.dll
+C:\Users\popan\Desktop\haidaaa\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\ref\TheLiveryMobile.dll
+C:\Users\popan\Desktop\haidaaa\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\TheLiveryMobile.pdb
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\bin\Debug\netstandard2.0\TheLiveryMobile.deps.json
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\bin\Debug\netstandard2.0\TheLiveryMobile.dll
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\bin\Debug\netstandard2.0\ref\TheLiveryMobile.dll
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\bin\Debug\netstandard2.0\TheLiveryMobile.pdb
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\TheLiveryMobile.csprojAssemblyReference.cache
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\detalii.xaml.g.cs
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\TheLiveryMobile.AssemblyInfoInputs.cache
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\TheLiveryMobile.AssemblyInfo.cs
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\TheLiveryMobile.csproj.CoreCompileInputs.cache
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\TheLiveryMobile.dll
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\ref\TheLiveryMobile.dll
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryMobile\TheLiveryMobile\TheLiveryMobile\obj\Debug\netstandard2.0\TheLiveryMobile.pdb
